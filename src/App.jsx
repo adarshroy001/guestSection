@@ -53,45 +53,45 @@ function App() {
 >
       <SwiperSlide>
         <img src={slide_image_1} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-1
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_2} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-2
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_3} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-3
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_4} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-4
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_5} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-5
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_6} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-6
-        </h2>
+        </h3>
       </SwiperSlide>
       <SwiperSlide>
         <img src={slide_image_7} alt="slide_image" />
-        <h2 className="nameofSpeaker">
+        <h3 className="nameofSpeaker">
           Lorem ipsum-7
-        </h2>
+        </h3>
       </SwiperSlide>
 
       <div className="slider-controler">
