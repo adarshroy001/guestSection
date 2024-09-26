@@ -9,6 +9,7 @@
 
 :root {
   --primary: #6a59ff;
+  /* --primary: #ffffff; */
   --white: #ffffff;
   --bg: #f5f5f5;
 }
@@ -77,6 +78,7 @@ body {
   height: 52rem;
   padding: 2rem 0;
   position: relative;
+
 }
 
 .swiper-slide {
@@ -87,6 +89,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #253C44;
+  border-radius: 2rem;
+
   /* background-color: #253C44; comment */
 
 }
@@ -100,8 +105,8 @@ body {
     height: 36rem !important;
   }
   .swiper-slide img {
-    width: 28rem !important;
-    height: 36rem !important;
+    width: 24rem !important;
+    height: 30rem !important;
   }
 }
 
@@ -118,6 +123,9 @@ body {
   object-fit: cover;
 }
 
+.nameofSpeaker{
+  color: #ffffff;
+}
 
 .swiper-slide-shadow-left,
 .swiper-slide-shadow-right {
